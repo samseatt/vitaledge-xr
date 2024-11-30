@@ -1,0 +1,27 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+
+# Asset meta data should be ignored when the corresponding asset is ignored
+*.pidb.meta
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Auto-generated JetBrains Rider plugin files
+.idea/
+*.sln
+*.csproj
+
+# Builds
+Builds/
+
+# Crashlytics generated files
+crashlytics-build.properties
+
