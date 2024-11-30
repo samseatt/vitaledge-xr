@@ -25,3 +25,6 @@ Builds/
 # Crashlytics generated files
 crashlytics-build.properties
 
+# Work in progress
+docs-wip/
+
