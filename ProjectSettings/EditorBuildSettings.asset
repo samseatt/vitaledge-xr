@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/AdminPortal.unity
+    guid: 95cf1c121495a43b5850a9d91547b610
   - enabled: 1
+    path: Assets/Scenes/SciencePortal.unity
+    guid: 232d5dd9e01084bc9bb9017b0ccce6ae
+  - enabled: 0
+    path: Assets/Scenes/DataPortal.unity
+    guid: dc7ced7973d7c46fea77b8c2cacd91fc
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
