@@ -18,6 +18,7 @@ public class ScatterPlotRenderer : MonoBehaviour
         // Render new points
         foreach (var (age, bp, cholesterol, bmi, gender) in data)
         {
+            Debug.Log(age);
             Vector3 position = new Vector3(
                 Normalize(age, 20, 80, 0, plotSize.x), // Map age to X
                 Normalize(bp, 100, 200, 0, plotSize.y), // Map blood pressure to Y
